@@ -1,0 +1,2 @@
+# ffcfg
+fastfetch config
